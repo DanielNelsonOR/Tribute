@@ -1,4 +1,32 @@
-#img {
+#title {
+    text-align: center;
+    background-color: #bebebe;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#img-div {
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 10px;
+}
+
+#image {
     max-width: 400px;
     height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h3 {
+    padding-bottom: 20px;
 }
